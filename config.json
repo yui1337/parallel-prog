@@ -1,0 +1,10 @@
+{
+    "sizes": [200, 400, 600, 800, 1000, 1500, 2000, 2500, 3000],
+    "cpp_exe": "compute.exe",
+    "directories": {
+        "matrix_a": "Matrix_A",
+        "matrix_b": "Matrix_B",
+        "results": "Results"
+    },
+    "plot_filename": "performance_cpp.png"
+}
